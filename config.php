@@ -1,15 +1,15 @@
 <?php
 // HTTP
-define('HTTP_SERVER', 'http://24sks.com/html/');
+define('HTTP_SERVER', 'http://24sks.com/');
 
 // HTTPS
-define('HTTPS_SERVER', 'http://24sks.com/html/');
+define('HTTPS_SERVER', 'http://24sks.com/');
 
 // DIR
-define('DIR_APPLICATION', 'C:/xampp/htdocs/24sks.com/html/catalog/');
-define('DIR_SYSTEM', 'C:/xampp/htdocs/24sks.com/html/system/');
-define('DIR_IMAGE', 'C:/xampp/htdocs/24sks.com/html/image/');
-define('DIR_STORAGE', 'C:/xampp/htdocs/24sks.com/html/storage/');
+define('DIR_APPLICATION', 'C:/xampp/htdocs/24sks.com/catalog/');
+define('DIR_SYSTEM', 'C:/xampp/htdocs/24sks.com/system/');
+define('DIR_IMAGE', 'C:/xampp/htdocs/24sks.com/image/');
+define('DIR_STORAGE', 'C:/xampp/htdocs/24sks.com/storage/');
 define('DIR_LANGUAGE', DIR_APPLICATION . 'language/');
 define('DIR_TEMPLATE', DIR_APPLICATION . 'view/theme/');
 define('DIR_CONFIG', DIR_SYSTEM . 'config/');
