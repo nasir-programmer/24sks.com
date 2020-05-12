@@ -1,6 +1,0 @@
-config.php
-admin/config.php
-install
-storage/cache/*
-storage/logs/*
-storage/session/*
