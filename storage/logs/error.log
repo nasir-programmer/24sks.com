@@ -1,0 +1,485 @@
+2019-01-11 10:53:48 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-11 10:54:21 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-11 10:54:22 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-12 4:04:40 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.store.1547269480): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-12 4:04:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-12 4:04:40 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-12 4:04:40 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-12 4:04:40 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-12 4:04:40 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-12 4:58:15 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.store.1547272695): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-12 4:58:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-12 4:58:15 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-12 4:58:15 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-12 4:58:15 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-12 4:58:15 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-12 5:47:38 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.store.1547275658): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-12 5:47:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-12 5:47:38 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-12 5:47:38 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-12 5:47:38 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-12 5:47:38 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-15 5:06:15 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-15 5:06:17 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-15 6:04:53 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-15 6:04:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-16 3:38:45 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 7
+2019-01-16 3:38:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:38:45 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:38:50 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 7
+2019-01-16 3:38:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:38:50 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:38:57 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 7
+2019-01-16 3:38:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:38:57 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC001\system\library\db\mysqli.php on line 10
+2019-01-16 3:47:02 - PHP Notice:  Undefined index: code in G:\wamp64\www\user5\OPENCART\OPC001\admin\model\design\layout.php on line 38
+2019-01-16 3:47:02 - PHP Notice:  Undefined index: code in G:\wamp64\www\user5\OPENCART\OPC001\admin\model\design\layout.php on line 38
+2019-01-16 6:33:09 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.store.1547623989): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-16 6:33:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-16 6:33:09 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-16 6:33:09 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-16 6:33:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-16 6:33:09 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-16 6:52:42 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-16 6:52:43 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC001\system\library\mail\mail.php on line 77
+2019-01-16 8:05:00 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:00 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:00 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-16 8:05:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-16 8:05:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-16 8:05:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-16 8:05:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-16 8:05:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-16 8:05:00 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-16 8:05:00 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 49
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 51
+2019-01-16 8:05:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-16 8:05:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+019-01-16 8:05:00 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 53
+2019-01-16 8:05:00 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 55
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-16 8:05:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-16 8:05:00 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 57
+2019-01-16 8:05:00 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 59
+2019-01-16 8:05:00 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629500): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:01 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-16 8:05:02 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC001/system/storage/cache/cache.catalog.language.1547629501): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC001\system\library\cache\file.php on line 68
+2019-01-23 5:09:32 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.catalog.language.1548223772): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 68
+2019-01-23 5:09:32 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.catalog.language.1548223772): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 68
+2019-01-23 5:09:33 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.catalog.language.1548223772): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 68
+2019-01-24 3:46:07 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 7
+2019-01-24 3:46:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 3:46:07 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 3:46:09 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 7
+2019-01-24 3:46:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 3:46:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 3:46:09 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 7
+2019-01-24 3:46:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 3:46:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-24 4:40:26 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548308426): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-24 4:40:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-24 4:40:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-24 4:40:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-24 4:40:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-24 4:40:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-24 4:41:55 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC002\system\library\mail\mail.php on line 77
+2019-01-24 4:41:56 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC002\system\library\mail\mail.php on line 77
+2019-01-24 9:19:59 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548325199): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-24 9:19:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-24 9:19:59 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-24 9:19:59 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-24 9:19:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-24 9:19:59 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 5:20:50 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548397250): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 5:20:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 5:20:50 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 5:20:50 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 5:20:50 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 5:20:50 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 5:59:45 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548399585): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 5:59:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 5:59:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 5:59:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 5:59:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 5:59:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 5:59:58 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548399598): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 5:59:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 5:59:58 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 5:59:58 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 5:59:58 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 5:59:58 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:01:20 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548399680): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:01:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:01:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:01:20 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:01:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:01:20 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:17:18 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548400638): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:17:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:17:18 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:17:18 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:17:18 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:17:18 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:17:20 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548400640): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:17:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:17:20 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:17:20 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:17:20 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:17:20 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:17:22 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548400642): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:17:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:17:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:17:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:17:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:17:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:18:10 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548400690): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:18:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:18:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:18:10 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:18:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:18:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:19:10 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.catalog.language.1548400750): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 6:19:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 6:19:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 6:19:10 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 6:19:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 6:19:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-25 6:19:19 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC002\system\library\mail\mail.php on line 77
+2019-01-25 6:19:20 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC002\system\library\mail\mail.php on line 77
+2019-01-25 7:59:26 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548406766): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-25 7:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-25 7:59:26 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-25 7:59:26 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-25 7:59:26 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-25 7:59:26 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-28 3:28:09 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 7
+2019-01-28 3:28:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-28 3:28:09 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC002\system\library\db\mysqli.php on line 10
+2019-01-28 5:09:08 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC002/system/storage/cache/cache.store.1548655748): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 49
+2019-01-28 5:09:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 51
+2019-01-28 5:09:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 53
+2019-01-28 5:09:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 55
+2019-01-28 5:09:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 57
+2019-01-28 5:09:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC002\system\library\cache\file.php on line 59
+2019-01-29 3:21:52 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 7
+2019-01-29 3:21:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-29 3:21:52 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-29 6:28:33 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC003/system/storage/cache/cache.store.1548746913): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 49
+2019-01-29 6:28:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 51
+2019-01-29 6:28:33 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 53
+2019-01-29 6:28:33 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 55
+2019-01-29 6:28:33 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 57
+2019-01-29 6:28:33 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 59
+2019-01-29 6:42:46 - PHP Notice:  Undefined index: code in G:\wamp64\www\user5\OPENCART\OPC003\admin\model\design\layout.php on line 38
+2019-01-30 3:26:32 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 7
+2019-01-30 3:26:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:32 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:38 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 7
+2019-01-30 3:26:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:38 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 7
+2019-01-30 3:26:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:38 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:40 - PHP Warning:  mysqli::__construct(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 7
+2019-01-30 3:26:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 3:26:40 - PHP Warning:  DB\MySQLi::__construct(): Couldn't fetch mysqli in G:\wamp64\www\user5\OPENCART\OPC003\system\library\db\mysqli.php on line 10
+2019-01-30 8:54:24 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC003\system\library\mail\mail.php on line 77
+2019-01-30 8:54:25 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC003\system\library\mail\mail.php on line 77
+2019-01-30 9:02:09 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC003/system/storage/cache/cache.catalog.language.1548842529): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 49
+2019-01-30 9:02:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 51
+2019-01-30 9:02:09 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 53
+2019-01-30 9:02:09 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 55
+2019-01-30 9:02:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 57
+2019-01-30 9:02:09 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 59
+2019-01-30 9:02:09 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC003/system/storage/cache/cache.catalog.language.1548842529): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 49
+2019-01-30 9:02:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 51
+2019-01-30 9:02:09 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 53
+2019-01-30 9:02:09 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 55
+2019-01-30 9:02:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 57
+2019-01-30 9:02:09 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 59
+2019-01-30 9:02:10 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC003/system/storage/cache/cache.catalog.language.1548842530): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 49
+2019-01-30 9:02:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 51
+2019-01-30 9:02:10 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 53
+2019-01-30 9:02:10 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 55
+2019-01-30 9:02:10 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 57
+2019-01-30 9:02:10 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC003\system\library\cache\file.php on line 59
+2019-01-31 4:13:39 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC003\system\library\mail\mail.php on line 77
+2019-01-31 4:13:40 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC003\system\library\mail\mail.php on line 77
+2019-02-14 6:13:31 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 14
+2019-02-14 6:13:31 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 16
+2019-02-14 6:13:31 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 18
+2019-02-14 6:13:31 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 20
+2019-02-14 6:13:31 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 22
+2019-02-14 6:13:31 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 24
+2019-02-15 6:30:54 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC004\system\library\mail\mail.php on line 77
+2019-02-15 6:30:55 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC004\system\library\mail\mail.php on line 77
+2019-02-15 6:31:49 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.store.1550215909): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 6:31:49 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 6:31:49 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 6:31:49 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 6:31:49 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 6:31:49 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 6:44:15 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC004\system\library\mail\mail.php on line 77
+2019-02-15 6:53:08 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.store.1550217188): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 6:53:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 6:53:08 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 6:53:08 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 6:53:08 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 6:53:08 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 9:59:24 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 9:59:24 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 9:59:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 9:59:24 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 9:59:24 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 9:59:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 9:59:24 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-15 9:59:24 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 9:59:24 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 9:59:24 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 9:59:24 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 9:59:24 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 9:59:24 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 9:59:24 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): No such file or directory in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-15 9:59:24 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-15 9:59:24 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550228364): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-15 11:01:19 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550232079): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 11:01:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 11:01:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 11:01:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 11:01:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 11:01:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 11:01:19 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550232079): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-15 11:01:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-15 11:01:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-15 11:01:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-15 11:01:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-15 11:01:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-02-15 11:01:20 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550232080): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-15 11:01:20 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.catalog.language.1550232080): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 68
+2019-02-16 3:57:53 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 14
+2019-02-16 3:57:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 16
+2019-02-16 3:57:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 18
+2019-02-16 3:57:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 20
+2019-02-16 3:57:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 22
+2019-02-16 3:57:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\admin\controller\startup\sass.php on line 24
+2019-02-16 7:38:48 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC004/system/storage/cache/cache.store.1550306328): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 49
+2019-02-16 7:38:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 51
+2019-02-16 7:38:48 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 53
+2019-02-16 7:38:48 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 55
+2019-02-16 7:38:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 57
+2019-02-16 7:38:48 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC004\system\library\cache\file.php on line 59
+2019-05-14 4:39:11 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557812351): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 4:39:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 4:39:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 4:39:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 4:39:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 4:39:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 5:59:48 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557817188): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 5:59:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 5:59:48 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 5:59:48 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 5:59:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 5:59:48 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 6:00:52 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557817252): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 6:00:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 6:00:52 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 6:00:52 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 6:00:52 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 6:00:52 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 6:07:22 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557817642): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 6:07:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 6:07:22 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 6:07:22 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 6:07:22 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 6:07:22 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 10:50:42 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557834642): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 10:50:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 10:50:42 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 10:50:42 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 10:50:42 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 10:50:42 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 10:54:19 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557834859): Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 68
+2019-05-14 10:54:55 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557834895): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 10:54:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 10:54:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 10:54:55 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 10:54:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 10:54:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 10:56:55 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557835015): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 10:56:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 10:56:55 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 10:56:55 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 10:56:55 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 10:56:55 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 10:57:46 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557835066): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 10:57:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 10:57:46 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 10:57:46 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 10:57:46 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 10:57:46 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 10:59:21 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557835161): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 10:59:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 10:59:21 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 10:59:21 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 10:59:21 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 10:59:21 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 11:08:06 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557835686): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 11:08:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 11:08:06 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 11:08:06 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 11:08:06 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 11:08:06 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 11:09:19 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1557835759): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-14 11:09:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-14 11:09:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-14 11:09:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-14 11:09:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-14 11:09:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-14 11:42:38 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC005\system\library\mail\mail.php on line 77
+2019-05-14 11:42:39 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC005\system\library\mail\mail.php on line 77
+2019-05-16 8:34:57 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.catalog.language.1557999297): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-16 8:34:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-16 8:34:57 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-16 8:34:57 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-16 8:34:57 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-16 8:34:57 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-05-16 9:04:02 - PHP Warning:  unlink(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.currency.1558001042): Resource temporarily unavailable in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 68
+2019-05-16 9:53:47 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC005/system/storage/cache/cache.store.1558004027): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 49
+2019-05-16 9:53:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 51
+2019-05-16 9:53:47 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 53
+2019-05-16 9:53:47 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 55
+2019-05-16 9:53:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 57
+2019-05-16 9:53:47 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC005\system\library\cache\file.php on line 59
+2019-06-06 5:42:56 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559803376): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-06 5:42:56 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-06 5:42:56 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-06 5:42:56 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-06 5:42:56 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-06 5:42:56 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-06 11:39:53 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559824793): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-06 11:39:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-06 11:39:53 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-06 11:39:53 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-06 11:39:53 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-06 11:39:53 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-06 11:43:45 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559825025): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-06 11:43:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-06 11:43:45 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-06 11:43:45 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-06 11:43:45 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-06 11:43:45 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 3:28:48 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/admin/view/stylesheet/bootstrap.css): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 14
+2019-06-07 3:28:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 16
+2019-06-07 3:28:48 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 18
+2019-06-07 3:28:48 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 20
+2019-06-07 3:28:48 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 22
+2019-06-07 3:28:48 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\admin\controller\startup\sass.php on line 24
+2019-06-07 5:07:59 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559887679): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 5:07:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 5:07:59 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 5:07:59 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 5:07:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 5:07:59 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 6:06:11 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559891171): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 6:06:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 6:06:11 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 6:06:11 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 6:06:11 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 6:06:11 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 6:09:59 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559891399): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 6:09:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 6:09:59 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 6:09:59 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 6:09:59 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 6:09:59 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 6:57:57 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\mail\mail.php on line 77
+2019-06-07 6:57:58 - PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\mail\mail.php on line 77
+2019-06-07 10:41:49 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559907709): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:41:49 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:41:49 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:41:49 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:41:49 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:41:49 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 10:43:35 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559907815): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:43:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:43:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:43:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:43:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:43:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 10:45:14 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559907914): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:45:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:45:14 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:45:14 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:45:14 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:45:14 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 10:45:23 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559907923): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:45:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:45:23 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:45:23 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:45:23 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:45:23 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 10:46:09 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559907969): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:46:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:46:09 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:46:09 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:46:09 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:46:09 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 10:48:47 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559908127): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 10:48:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 10:48:47 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 10:48:47 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 10:48:47 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 10:48:47 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 11:33:34 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559910814): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 11:33:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 11:33:34 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 11:33:34 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 11:33:34 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 11:33:34 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 11:35:35 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559910935): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 11:35:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 11:35:35 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 11:35:35 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 11:35:35 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 11:35:35 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 11:36:19 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559910979): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 11:36:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 11:36:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 11:36:19 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 11:36:19 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 11:36:19 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2019-06-07 11:39:36 - PHP Warning:  fopen(G:/wamp64/www/user5/OPENCART/OPC0011/system/storage/cache/cache.store.1559911176): failed to open stream: Permission denied in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 49
+2019-06-07 11:39:36 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 51
+2019-06-07 11:39:36 - PHP Warning:  fwrite() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 53
+2019-06-07 11:39:36 - PHP Warning:  fflush() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 55
+2019-06-07 11:39:36 - PHP Warning:  flock() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 57
+2019-06-07 11:39:36 - PHP Warning:  fclose() expects parameter 1 to be resource, boolean given in G:\wamp64\www\user5\OPENCART\OPC0011\system\library\cache\file.php on line 59
+2020-05-10 7:55:19 - PHP Warning:  fopen(C:/xampp/htdocs/24sks.com/html/storage/cache/cache.catalog.language.1589100919): failed to open stream: Permission denied in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 49
+2020-05-10 7:55:19 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 51
+2020-05-10 7:55:19 - PHP Warning:  fwrite() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 53
+2020-05-10 7:55:19 - PHP Warning:  fflush() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 55
+2020-05-10 7:55:19 - PHP Warning:  flock() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 57
+2020-05-10 7:55:19 - PHP Warning:  fclose() expects parameter 1 to be resource, bool given in C:\xampp\htdocs\24sks.com\html\system\library\cache\file.php on line 59

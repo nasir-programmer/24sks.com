@@ -1,0 +1,169 @@
+ 
+<footer>
+  <div id="footer">
+      <div class="container">
+        <div class="row">
+     <div class="col-sm-3 column first">
+         {{ footer_left }}
+   </div>
+     <!--   <h5>{{ text_service }}</h5>
+        <ul class="list-unstyled">
+ <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+          <li><a href="{{ return }}">{{ text_return }}</a></li>
+          <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+    <li><a href="{{ voucher }}">{{ text_voucher }}</a></li>
+    <li><a href="{{ manufacturer }}">{{ text_manufacturer }}</a></li>
+        </ul> --> 
+<div class="footer-right">
+       <div class="content_footer_top">
+    <div class="container">
+      <div class="row">
+  {{ footer_top }}
+  </div>
+  </div>
+</div>
+  {% if informations %}
+      <div class="col-sm-3 column second">
+        <!-- <h5 class="title">{{ text_information }}</h5> -->
+        <h5 data-toggle="collapse" data-target="#collapseTwo">{{ text_information }}
+               <span class="toggle-arrow">     
+                  <span class="show-arrow">
+                   <!--  <i class="fa fa-angle-down" aria-hidden="true"></i> -->
+                  </span> 
+                  <span class="hide-arrow">
+                    <!-- <i class="fa fa-angle-up" aria-hidden="true"></i> -->
+                  </span> 
+              </span>
+
+        </h5>
+        <ul id="collapseTwo" class="list-unstyled collapse">
+         {% for information in informations %}
+          <li><a href="{{ information.href }}">{{ information.title }}</a></li>
+          {% endfor %}
+      <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+  
+        </ul>
+      </div>
+      {% endif %}
+       <div class="col-sm-3 column third">
+              <!-- <h5 class="title">{{ text_extra }}</h5> -->
+        <h5 data-toggle="collapse" data-target="#collapseThree">{{ text_extra }}
+                 <span class="toggle-arrow">     
+                  <span class="show-arrow">
+                    <!-- <i class="fa fa-angle-down" aria-hidden="true"></i> -->
+                  </span> 
+                  <span class="hide-arrow">
+                  <!--   <i class="fa fa-angle-up" aria-hidden="true"></i> -->
+                  </span> 
+              </span>
+
+        </h5>
+        <ul id="collapseThree" class="list-unstyled collapse">
+          <li><a href="{{ manufacturer }}">{{ text_manufacturer }}</a></li>
+          <li><a href="{{ voucher }}">{{ text_voucher }}</a></li>
+          <li><a href="{{ affiliate }}">{{ text_affiliate }}</a></li>
+          <li><a href="{{ special }}">{{ text_special }}</a></li>
+      <li><a href="{{ account }}">{{ text_account }}</a></li>
+    
+        </ul>
+      </div>
+<!--         <div class="col-sm-3 column fifth">
+          <h5 class="title">{{ text_account }}</h5>
+        <h5  data-toggle="collapse" data-target="#collapseFifth">{{ text_account }}
+                 <span class="toggle-arrow">     
+                  <span class="show-arrow">
+                    <i class="fa fa-angle-down" aria-hidden="true"></i>
+                  </span> 
+                  <span class="hide-arrow">
+                    <i class="fa fa-angle-up" aria-hidden="true"></i>
+                  </span> 
+              </span>
+
+
+        </h5>
+        <ul id="collapseFifth" class="list-unstyled collapse">
+          <li><a href="{{ account }}">{{ text_account }}</a></li>
+          <li><a href="{{ order }}">{{ text_order }}</a></li>
+          <li><a href="{{ wishlist }}">{{ text_wishlist }}</a></li>
+          <li><a href="{{ newsletter }}">{{ text_newsletter }}</a></li>
+           <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+        </ul>
+      </div> -->
+
+      
+ <!-- <div class="col-sm-3 column fifth">
+          <h5 class="title">{{ text_account }}</h5>
+        <h5  data-toggle="collapse" data-target="#collapseFifth">{{ text_account }}
+                 <span class="toggle-arrow">     
+                  <span class="show-arrow">
+                 
+                  </span> 
+                  <span class="hide-arrow">
+                  </span> 
+              </span>
+
+
+        </h5>
+        <ul id="collapseFifth" class="list-unstyled collapse">
+          <li><a href="{{ account }}">{{ text_account }}</a></li>
+          <li><a href="{{ order }}">{{ text_order }}</a></li>
+          <li><a href="{{ wishlist }}">{{ text_wishlist }}</a></li>
+          <li><a href="{{ newsletter }}">{{ text_newsletter }}</a></li>
+           <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+        </ul>
+      </div> -->
+           
+   
+    <div class="col-sm-3 column forth">
+      <!-- <h5 data-toggle="collapse" data-target=".collapseFour">newsletter</h5> -->
+      <ul class="list-unstyled collapseThree">
+      {{ footer_right }}
+   </ul>
+   </div>
+            
+            </div>    
+      <!-- <div class="col-sm-3 column fifth">
+        <h5>{{ text_service }}</h5>
+        <ul class="list-unstyled">
+          <li><a href="{{ contact }}">{{ text_contact }}</a></li>
+          <li><a href="{{ return }}">{{ text_return }}</a></li>
+          <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+        </ul>
+      </div> -->
+ </div>
+</div>
+
+</div>
+  <div class="copyright">
+    <div class="container">
+      <div class="footer-bottom-first">
+       <!--  <div id="bottomfooter">
+        <ul>
+        <li class="first"><a href="{{ special }}">{{ text_special }}</a></li>
+        <li><a href="{{ affiliate }}">{{ text_affiliate }}</a></li>
+        <li><a href="{{ voucher }}">{{ text_voucher }}</a></li>
+        <li><a href="{{ manufacturer }}">{{ text_manufacturer }}</a></li>
+        <li><a href="{{ return }}">{{ text_return }}</a></li>
+        <li><a href="{{ sitemap }}">{{ text_sitemap }}</a></li>
+        <li class="last"><a href="{{ contact }}">{{ text_contact }}</a></li>
+        </ul>
+        </div> -->
+        <div class="powered">{{ powered }}</div>
+    </div>
+    <div class="content_footer_bottom">{{ footer_bottom }}</div>
+
+
+</div>
+</div> 
+</footer>
+
+{% for script in scripts %}
+<script src="{{ script }}" type="text/javascript"></script>
+{% endfor %}
+
+<!--
+OpenCart is open source software and you are free to remove the powered by OpenCart if you want, but its generally accepted practise to make a small donation.
+Please donate via PayPal to donate@opencart.com
+//--> 
+<!-- Theme created by Welford Media for OpenCart 2.0 www.welfordmedia.co.uk -->
+</body></html>
